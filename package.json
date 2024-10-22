@@ -88,7 +88,7 @@
     "lefthook": "^1.6.10",
     "rollup-plugin-visualizer": "^5.11.0",
     "typescript": "^5.4.2",
-    "vite": "^4.5.5",
+    "vite": "^5.1.8",
     "vite-plugin-dts": "1.7.1",
     "vitest": "0.25.6"
   }
